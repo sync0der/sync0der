@@ -1,7 +1,7 @@
 
 # Hi 👋, I'm Otabek Akhmadjanov! 
-
-- 👨‍💻 Java Backend Developer. <img align="right" alt="coding" width="400px" src="https://tenor.com/en-GB/view/coding-gif-24625099.gif"/>
+# <img align="right" alt="coding" width="400px" src="https://tenor.com/en-GB/view/coding-gif-24625099.gif"/>
+- 👨‍💻 Java Backend Developer. 
 - 🧑‍🎓 Currently majoring in Digital Economics at TSUE, UZ.
 - 📧 How to contact me: ahmadjanovinbox@gmail.com
 

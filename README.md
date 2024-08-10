@@ -1,5 +1,5 @@
 
-# Hey there, it's Otabek! 
+# Hi 👋, I'm Otabek Akhmadjanov! 
 
 - 👨‍💻 Java Backend Developer. <img align="right" alt="coding" width="400px" src="https://tenor.com/en-GB/view/coding-gif-24625099.gif"/>
 - 🧑‍🎓 Currently majoring in Digital Economics at TSUE, UZ.

@@ -6,7 +6,7 @@
 - 📧 How to contact me: ahmadjanovinbox@gmail.com
 
 ### Socials:
-<a href="www.linkedin.com/in/otabekahmadjanov" target="_blank">
+<a href="https://www.linkedin.com/in/otabekahmadjanov" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="30">
 </a>
 <a href="https://www.leetcode.com/sync0der" target="_blank">
